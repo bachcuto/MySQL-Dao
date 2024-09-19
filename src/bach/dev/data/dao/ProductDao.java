@@ -1,7 +1,7 @@
-package quoc.dev.data.dao;
+package bach.dev.data.dao;
 
 import java.util.List;
-import quoc.dev.data.model.Product;
+import bach.dev.data.model.Product;
 
 public interface ProductDao {
     

@@ -1,9 +1,9 @@
-package quoc.dev.data.model;
+package bach.dev.data.model;
 
 import java.util.List;
 
-import quoc.dev.data.dao.Database;
-import quoc.dev.data.dao.DatabaseDao;
+import bach.dev.data.dao.Database;
+import bach.dev.data.dao.DatabaseDao;
 
 public class User {
     private int id;

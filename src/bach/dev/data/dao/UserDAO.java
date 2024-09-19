@@ -1,8 +1,8 @@
-package quoc.dev.data.dao;
+package bach.dev.data.dao;
 
 import java.util.List;
 
-import quoc.dev.data.model.User;
+import bach.dev.data.model.User;
 
 public interface UserDAO {
 

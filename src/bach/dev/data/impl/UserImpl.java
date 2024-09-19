@@ -1,4 +1,4 @@
-package quoc.dev.data.impl;
+package bach.dev.data.impl;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,9 +7,9 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import quoc.dev.data.dao.UserDAO;
-import quoc.dev.data.driver.MySQLDriver;
-import quoc.dev.data.model.User;
+import bach.dev.data.dao.UserDAO;
+import bach.dev.data.driver.MySQLDriver;
+import bach.dev.data.model.User;
 
 public class UserImpl implements UserDAO {
 

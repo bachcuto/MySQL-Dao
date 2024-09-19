@@ -1,4 +1,4 @@
-package quoc.dev.data.model;
+package bach.dev.data.model;
 import java.sql.Timestamp;
 public class Product {
 	private int id;

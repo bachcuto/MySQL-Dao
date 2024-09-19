@@ -1,10 +1,10 @@
-package quoc.dev.data.driver;
+package bach.dev.data.driver;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-import quoc.dev.util.Constants;
+import bach.dev.util.Constants;
 
 public class MySQLDriver {
 	private static MySQLDriver instance;

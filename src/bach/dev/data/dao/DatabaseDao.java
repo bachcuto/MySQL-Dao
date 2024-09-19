@@ -1,4 +1,4 @@
-package quoc.dev.data.dao;
+package bach.dev.data.dao;
 
 public abstract class DatabaseDao {
 

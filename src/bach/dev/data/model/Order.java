@@ -1,6 +1,6 @@
-package quoc.dev.data.model;
+package bach.dev.data.model;
 
-import quoc.dev.data.dao.DatabaseDao;
+import bach.dev.data.dao.DatabaseDao;
 import java.sql.Timestamp;
 
 public class Order {

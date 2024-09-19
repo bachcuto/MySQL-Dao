@@ -1,4 +1,4 @@
-package quoc.dev.data.model;
+package bach.dev.data.model;
 
 public class Category {
 

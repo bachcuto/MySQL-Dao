@@ -1,4 +1,4 @@
-package quoc.dev.util;
+package bach.dev.util;
 
 public class Constants {
 	public static final String BD_URL = "jdbc:mysql://localhost:3306/shop";

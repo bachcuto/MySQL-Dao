@@ -1,8 +1,8 @@
-package quoc.dev.data.dao;
+package bach.dev.data.dao;
 
 import java.util.List;
 
-import quoc.dev.data.model.Category;
+import bach.dev.data.model.Category;
 
 public interface CategoryDao {
     public boolean insert(Category category);

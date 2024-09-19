@@ -1,4 +1,4 @@
-package quoc.dev.data.impl;
+package bach.dev.data.impl;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -7,9 +7,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
-import quoc.dev.data.dao.CategoryDao;
-import quoc.dev.data.driver.MySQLDriver;
-import quoc.dev.data.model.Category;
+import bach.dev.data.dao.CategoryDao;
+import bach.dev.data.driver.MySQLDriver;
+import bach.dev.data.model.Category;
 
 public class CategoryImpl implements CategoryDao {
     Connection con = MySQLDriver.getInstance().getConnection();
